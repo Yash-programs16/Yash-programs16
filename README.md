@@ -10,8 +10,7 @@
   <br><br>
 
   <!-- JAPANESE GREETING -->
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=36&duration=3000&pause=100000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%28Konnichiwa%21%29"
-       alt="こんにちは！ (Konnichiwa!)" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=33&pause=1000&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%28Konnichiwa!%29)](https://git.io/typing-svg)
 
   <br>
 
