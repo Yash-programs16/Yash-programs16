@@ -2,8 +2,8 @@
 <div align="center">
 
   <!-- BUTTERFLY BANNER -->
-  <img src="./assets/typing.gif"
-       alt="Butterfly Banner"
+  <img src="./assets/train.gif"
+       alt="train"
        width="100%"
        height="220" />
 
