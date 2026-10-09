@@ -91,30 +91,43 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>DevSync</h3>
-        A developer collaboration platform inspired by Discord, designed around workspaces, communication, and developer-focused tools.
+  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 DevSync</h3>
 
-        <br><br>
+      Building a developer collaboration platform with a microservices architecture, designed around workspaces, communication, and developer productivity.
 
-        <b>Focus:</b> Go · PostgreSQL · Redis · Microservices
 
-        <br><br>
+      Working on:
+        Authentication with PASETO access and refresh tokens
+        Email OTP verification and session management
+        Workspace creation, membership, and role-based access
+        Service communication and scalable backend architecture
+      
 
-        <a href="https://github.com/Yash-programs16?tab=repositories">Explore repositories →</a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>Backend & Systems</h3>
-        Exploring secure authentication, database design, caching, distributed systems, and production-oriented backend architecture.
+      Tech: Go · PostgreSQL · PASETO · Microservices
 
-        <br><br>
+      ⚙️ Backend & Systems Engineering
 
-        <b>Focus:</b> Go · PASETO · SQL · Docker
-      </td>
-    </tr>
-  </table>
+      Developing deeper expertise in the systems behind reliable, scalable backend applications, with a focus on security, performance, and infrastructure.
+
+      
+
+      Exploring:
+      
+        Redis caching, rate limiting, and session storage
+        Database design, transactions, and query performance
+        Docker, Linux, and deployment infrastructure
+        Distributed systems, gRPC, and inter-service communication
+      
+
+      Tech: Go · PostgreSQL · Redis · Docker · Linux
+    
+  </tr>
+</table>
+
 
 </div>
 
@@ -145,19 +158,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-  <a href="https://github.com/Yash-programs16">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-programs16&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-      alt="GitHub Contribution Activity Graph"
-      width="100%"
-    />
-  </a>
-
-</div>
 
 ---
 
